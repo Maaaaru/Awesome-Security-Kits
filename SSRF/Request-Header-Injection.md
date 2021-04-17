@@ -84,6 +84,17 @@ Dotted octal IP with padding
 ```
 
 
+## IPv4 address mapping
+
+```
+[::ffff:7f00:1]
+[::ffff:127.0.0.1]
+[::127.0.0.1]
+[::ffff:7f00:1%25]
+[::ffff:127.0.0.1%eth0]
+```
+
+
 ## Enclosed alphanumerics
 
 ```
