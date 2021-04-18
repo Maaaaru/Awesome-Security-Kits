@@ -1,1 +1,1 @@
-# Attack List For Bug hunting
+# Attack list for bug hunting
