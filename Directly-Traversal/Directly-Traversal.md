@@ -7,6 +7,16 @@ PASSWD
 /ETC/PASSWD
 "/etc/passwd"
 "/ETC/PASSWD"
+'/etc/passwd'
+'/ETC/PASSWD'
+[ /etc/passwd
+[ /ETC/PASSWD
+] /etc/passwd
+] /ETC/PASSWD
+_ /etc/passwd
+_ /ETC/PASSWD
+アイウエオ /etc/passwd
+アイウエオ /ETC/PASSWD
 \/etc\/\passwd
 \/ETC\/\PASSWD
 ../../../../etc/passwd
