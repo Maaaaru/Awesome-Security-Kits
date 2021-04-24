@@ -15,6 +15,7 @@ PASSWD
 ] /ETC/PASSWD
 _ /etc/passwd
 _ /ETC/PASSWD
+{ /ETC/PASSWD
 アイウエオ /etc/passwd
 アイウエオ /ETC/PASSWD
 \/etc\/\passwd
