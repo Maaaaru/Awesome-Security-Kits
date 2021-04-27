@@ -45,7 +45,7 @@ _ /ETC/PASSWD
 \\\\    \/etc/\/passwd
 \\\\    \/ETC/\/PASSWD
 \\\\   : \/etc/passwd
-\\\\   : \/ETC/passwd
+\\\\   : \/ETC/PASSWD
 \\\\   : /etc/passwd
 \\\\   : /ETC/PASSWD
 \…..\\\…..\\\…..\\\etc\\passwd
