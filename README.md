@@ -1,1 +1,1 @@
-# Attack list for bug hunting
+# ONLY ETHICAL HACKING
